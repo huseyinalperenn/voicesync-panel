@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "390f641d50cc28f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c484f663e49f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9dd1c0ecb2cd9ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec9856ff3702ce9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39020b180e507942",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "5e773e585cbb35cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "8f9a29cafa30841f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "right",
+    "type": "split",
+    "children": [
+      {
+        "id": "45aa97db9a69123c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7042e2a3326890a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Geri Bağlantılar"
+            }
+          },
+          {
+            "id": "dcdfc22b13976958",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Giden bağlantılar"
+            }
+          },
+          {
+            "id": "a8e94955929e53c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "106015d73171b885",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tüm özellikler"
+            }
+          },
+          {
+            "id": "7db9407ae7acb1c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Anahat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "bases:Yeni taban oluştur": false
+    }
+  },
+  "active": "b9dd1c0ecb2cd9ed",
+  "lastOpenFiles": [
+    "api/database/migrations/2026_06_11_065901_create_permission_tables.php",
+    "api/config/permission.php",
+    "api/vendor/composer/tmp-349c8d471b30484dce619323959ca938.zip",
+    "api/vendor/composer/tmp-696b739b80371dc5eaecf3bf6e47e615.zip",
+    "api/vendor/composer/tmp-349c8d471b30484dce619323959ca938.zip~",
+    "api/vendor/composer/tmp-696b739b80371dc5eaecf3bf6e47e615.zip~",
+    "api/vendor/spatie/laravel-permission",
+    "api/vendor/spatie/laravel-package-tools",
+    "api/vendor/spatie",
+    "api/app/Models/KnowledgeBase.php",
+    "api/database/migrations/2026_06_11_065209_create_knowledge_bases_table.php",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/build-modern-redux-apps/modern-redux/references/store-lifetime.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/orchestrate-side-effects/handle-side-effects/references/listener-workflows.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/model-redux-state/design-state-ownership/references/state-ownership.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/manage-server-data/adopt-rtk-query/references/endpoint-lifecycle.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/model-redux-state/build-slices-and-selectors/references/slice-patterns.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/build-modern-redux-apps/redux-dataflow/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/build-modern-redux-apps/modern-redux/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/evolve-and-diagnose-redux-apps/migrate-to-modern-redux/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/evolve-and-diagnose-redux-apps/debug-redux-toolkit-apps/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/orchestrate-side-effects/handle-side-effects/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/model-redux-state/design-state-ownership/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/model-redux-state/build-slices-and-selectors/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/skills/manage-server-data/adopt-rtk-query/SKILL.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/node_modules/immer/readme.md",
+    "admin-panel/node_modules/@reduxjs/toolkit/README.md",
+    "admin-panel/node_modules/recharts/node_modules/reselect/README.md",
+    "admin-panel/node_modules/recharts/README.md",
+    "admin-panel/node_modules/recharts/DEVELOPING.md",
+    "admin-panel/node_modules/recharts/CONTRIBUTING.md",
+    "admin-panel/node_modules/recharts/CHANGELOG.md",
+    "admin-panel/node_modules/recharts/AGENTS.md",
+    "admin-panel/node_modules/@types/use-sync-external-store/README.md",
+    "admin-panel/node_modules/d3-color/README.md",
+    "admin-panel/node_modules/@standard-schema/utils/README.md",
+    "admin-panel/node_modules/@standard-schema/spec/README.md",
+    "api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
+    "api/vendor/symfony/error-handler/Resources/assets/images/icon-book.svg"
+  ]
+}

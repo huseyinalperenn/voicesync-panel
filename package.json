@@ -1,0 +1,13 @@
+{
+  "name": "voicesync",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev:admin": "npm run dev --workspace=apps/admin",
+    "dev:tenant": "npm run dev --workspace=apps/tenant",
+    "build:admin": "npm run build --workspace=apps/admin",
+    "build:tenant": "npm run build --workspace=apps/tenant",
+    "lint": "npm run lint --workspaces --if-present"
+  }
+}
